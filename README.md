@@ -1,8 +1,8 @@
 
-## PyBank
+## PyBank Financial Analysis:
 PyBank Analysis utilizes python script to analyze a set of sample financial data.
 
-### Your task is to create a Python script that analyzes the records to calculate each of the following:
+#### Your task is to create a Python script that analyzes the records to calculate each of the following:
 
   * The total number of months included in the dataset
 
@@ -19,6 +19,6 @@ PyBank Analysis utilizes python script to analyze a set of sample financial data
 uld both print the analysis to the terminal and export a text file with the results.
 
 
-## Copyright
+##### Copyright
 
 Trilogy Education Services © 2018. All Rights Reserved.
